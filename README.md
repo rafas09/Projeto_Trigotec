@@ -14,7 +14,7 @@ IDE: Visual Studio Code.
 Github para controle de versão e colaboração.
 
 
-*Membros do grupo*
+*Membros do grupo:*
 Aline de souza;
 Arthur Cavalcanti;
 Rafaella Ferreira;
